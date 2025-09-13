@@ -49,5 +49,5 @@
 
 ## 🎉 Fun Zone
 <p align="center">
-  <img src="https://i.makeagif.com/media/3-02-2024/eAy9d9.mp4" width="150px"/>
+  <img src="https://media1.tenor.com/m/r8T-CrAt9XEAAAAd/thorfinn-vinland-saga.gif" width="150px"/>
 </p>
