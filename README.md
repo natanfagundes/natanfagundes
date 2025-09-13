@@ -1,27 +1,53 @@
-# Olá! 👋 Eu sou [Natan Fagundes]
+<!-- Banner ou saudação -->
+<h1 align="center">Hi, I'm Natan! 👋</h1>
 
-🎯 **Sobre mim:**  
-Sou desenvolvedor(a) apaixonado(a) por tecnologia, sempre em busca de aprender e criar soluções inovadoras. Tenho experiência em [suas áreas de interesse, ex.: desenvolvimento web, back-end, automação, data science].  
+<p align="center">
+  <a href="natanfagundes81@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/natan-fagundes-15239a234">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-💻 **Tecnologias e ferramentas que utilizo:**  
-- **Linguagens:** Python, JavaScript, Java, C#  
-- **Frameworks & Bibliotecas:** React, Node.js, Flask, Django  
-- **Banco de dados:** MySQL, MongoDB, PostgreSQL  
-- **Outros:** Git, GitHub, Docker, VS Code  
+---
 
-🚀 **Atualmente estou:**  
-- Aprimorando meus conhecimentos em Engenharia de Software  
-- Contribuindo para projetos open source e pessoais  
+## 🚀 About me
+- 💻 Desenvolvedor(a) apaixonado(a) por tecnologia  
+- 🌱 Atualmente estudando **Engenharia de Software**  
+- 🎯 Foco em aprender e construir projetos em **Web, Back-End, Data Science**  
 
-📂 **Projetos em destaque:**  
-- [Projeto 1](https://github.com/natanfagundes/bot-discord)  
-- [Projeto 2](https://github.com/natanfagundes/luis-alberto-showcase-56) 
-- [Projeto 3](https://github.com/natanfagundes/otimizador_windows) 
+---
 
-📫 **Como me contatar:**  
-- LinkedIn: [Natan Fagundes](https://www.linkedin.com/in/natan-fagundes-15239a234)  
-- Email: natanfagundes81@gmail.com 
+## 🛠️ My Skill
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-💡 **Curiosidade:**  
-Adoro explorar novas tecnologias e sempre busco desafios que me façam crescer como desenvolvedor(a).  
+---
 
+## 📚 Currently Studying
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🎉 Fun Zone
+<p align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150px"/>
+</p>
