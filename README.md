@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! 👋 Eu sou [Natan Fagundes]
 
-<!--
-**natanfagundes/natanfagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Sobre mim:**  
+Sou desenvolvedor(a) apaixonado(a) por tecnologia, sempre em busca de aprender e criar soluções inovadoras. Tenho experiência em [suas áreas de interesse, ex.: desenvolvimento web, back-end, automação, data science].  
 
-Here are some ideas to get you started:
+💻 **Tecnologias e ferramentas que utilizo:**  
+- **Linguagens:** Python, JavaScript, Java, C#  
+- **Frameworks & Bibliotecas:** React, Node.js, Flask, Django  
+- **Banco de dados:** MySQL, MongoDB, PostgreSQL  
+- **Outros:** Git, GitHub, Docker, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Atualmente estou:**  
+- Aprimorando meus conhecimentos em Engenharia de Software  
+- Contribuindo para projetos open source e pessoais  
+
+📂 **Projetos em destaque:**  
+- [Projeto 1](https://github.com/natanfagundes/bot-discord)  
+- [Projeto 2](https://github.com/natanfagundes/luis-alberto-showcase-56) 
+- [Projeto 3](https://github.com/natanfagundes/otimizador_windows) 
+
+📫 **Como me contatar:**  
+- LinkedIn: [Natan Fagundes](https://www.linkedin.com/in/natan-fagundes-15239a234)  
+- Email: natanfagundes81@gmail.com 
+
+💡 **Curiosidade:**  
+Adoro explorar novas tecnologias e sempre busco desafios que me façam crescer como desenvolvedor(a).  
+
