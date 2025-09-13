@@ -47,7 +47,7 @@
 
 ---
 
-## 🎉 Fun Zone
+## Você não tem inimigos
 <p align="center">
   <img src="https://media1.tenor.com/m/r8T-CrAt9XEAAAAd/thorfinn-vinland-saga.gif" width="150px"/>
 </p>
