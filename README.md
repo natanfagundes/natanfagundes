@@ -49,5 +49,5 @@
 
 ## 🎉 Fun Zone
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fthorfinn-vinland-saga-gif-thorfinn-vinland-saga-anime-discover-share-gifs--381328293466856838%2F&psig=AOvVaw1wKJsrqXlXg2i_j7Z3eTru&ust=1757879481113000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiGk8LB1o8DFQAAAAAdAAAAABAE" width="150px"/>
+  <img src="https://i.pinimg.com/originals/0f/a1/74/0fa174de8db2e14487d3baea36a06662.gif" width="150px"/>
 </p>
