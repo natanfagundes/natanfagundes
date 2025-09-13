@@ -49,5 +49,5 @@
 
 ## 🎉 Fun Zone
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150px"/>
+  <img src="https://giffiles.alphacoders.com/223/223415.gif" width="150px"/>
 </p>
