@@ -47,7 +47,8 @@
 
 ---
 
-## Você não tem inimigos
+## 🚀 Filosofia
+<p align="center">Você não tem inimigos</p>
 <p align="center">
   <img src="https://media1.tenor.com/m/r8T-CrAt9XEAAAAd/thorfinn-vinland-saga.gif" width="150px"/>
 </p>
